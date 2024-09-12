@@ -1,6 +1,3 @@
 # TPGestionProjLPMJV
 Premier commit ... BK
-
-
-Marie Le Mezec i3D
-
+Aalyah Poncet L3D 
